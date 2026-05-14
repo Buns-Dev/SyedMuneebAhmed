@@ -1,6 +1,12 @@
-## 👋 Hey there! I'm Muneeb.
+# Syed Muneeb Ahmed (Buns-Dev)
 
-*   🎓 **Education:** Electrical Engineering @ FAST National University (2024–2028)
-*   💡 **Building:** Full‑stack web applications with **React, .NET Core, MongoDB, and JWT**
-*   💼 **Experience:** Freelance web developer delivering user‑friendly solutions for clients
-*   📫 **Contact:** [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white)](YOUR_LINKEDIN_URL) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:munusyed785@gmail.com)
+🎓 Electrical Engineering @ FAST (2028)  
+💻 Full‑stack developer: React, .NET Core, MongoDB  
+🛠️ Freelance web dev · C++ enthusiast  
+
+## 🔗 Links
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/syed-muneeb-ahmed-027950393)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?logo=gmail)](mailto:munusyed785@gmail.com)
+
+> Explore my pinned repos below 👇
